@@ -1,0 +1,23 @@
+{
+    "nav": [{
+        "id": "1",
+        "img":"http://localhost:8080/images/1.png",
+        "title": "联想拯救者",
+        "price":"5555"
+    }, {
+        "id": "2",
+        "img":"http://localhost:8080/images/2.png",
+        "title": "联想(Lenovo)拯救者",
+        "price":"6754"
+    }, {
+        "id": "3",
+        "img":"http://localhost:8080/images/3.png",
+        "title": "联想拯救者Y7000",
+        "price":"3699"
+    }, {
+        "id": "4",
+        "img":"http://localhost:8080/images/4.png",
+        "title": "RedmiBook ",
+        "price":"4399"
+    }]
+}

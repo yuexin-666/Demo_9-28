@@ -1,0 +1,33 @@
+{
+    "nav": [{
+        "id": "1",
+        "img":"http://localhost:8080/image/1.jpg",
+        "title": "哈弗系列",
+        "price":"19万",
+        "licheng":"13万公里"
+    }, {
+        "id": "2",
+        "img":"http://localhost:8080/image/2.jpg",
+        "title": "奥迪系列",
+        "price":"39万",
+        "licheng":"3万公里"
+    }, {
+        "id": "3",
+        "img":"http://localhost:8080/image/3.jpg",
+        "title": "雪福来系列",
+        "price":"29万",
+        "licheng":"1万公里"
+    }, {
+        "id": "4",
+        "img":"http://localhost:8080/image/4.jpg",
+        "title": "奔驰系列",
+        "price":"59万",
+        "licheng":"2万公里"
+    }, {
+        "id": "5",
+        "img":"http://localhost:8080/image/5.jpg",
+        "title": "宝马系列",
+        "price":"69万",
+        "licheng":"4万公里"
+    }]
+}
