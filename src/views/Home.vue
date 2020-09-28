@@ -1,5 +1,6 @@
 <template>
   <div>
+    <input type="text" name="" id="">
     <van-card
       v-for="(item,index) in list"
       :key="index"
